@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
+![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
 <h1 align="center">Hi 👋, I'm Ch'ng Seng Hong</h1>
 <h3 align="center">Undergraduate Student in Universiti Teknologi Malaysia</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
